@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_edu\final_work__\bin\Debug\net8.0\final_work__.exe
+C:\GeekBrains\C#_edu\final_work__\bin\Debug\net8.0\final_work__.deps.json
+C:\GeekBrains\C#_edu\final_work__\bin\Debug\net8.0\final_work__.runtimeconfig.json
+C:\GeekBrains\C#_edu\final_work__\bin\Debug\net8.0\final_work__.dll
+C:\GeekBrains\C#_edu\final_work__\bin\Debug\net8.0\final_work__.pdb
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.AssemblyInfo.cs
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.sourcelink.json
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.dll
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\refint\final_work__.dll
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.pdb
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\final_work__.genruntimeconfig.cache
+C:\GeekBrains\C#_edu\final_work__\obj\Debug\net8.0\ref\final_work__.dll
